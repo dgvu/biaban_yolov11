@@ -1,0 +1,13 @@
+[UNILOG][INFO] Compile mode: dpu
+[UNILOG][INFO] Debug mode: null
+[UNILOG][INFO] Target architecture: DPUCZDX8G_ISA1_B4096
+[UNILOG][INFO] Graph name: YOLO11nZCU104, with op num: 722
+[UNILOG][INFO] Begin to compile...
+[UNILOG][INFO] Total device subgraph number 8, DPU subgraph number 1
+[UNILOG][INFO] Compile done.
+[UNILOG][INFO] The meta json is saved to "/workspace/project/bia_zcu104_yolov11/compiled_zcu104_nosplit/meta.json"
+[UNILOG][INFO] The compiled xmodel is saved to "/workspace/project/bia_zcu104_yolov11/compiled_zcu104_nosplit/yolo11n_bullet_target.xmodel"
+[UNILOG][INFO] The compiled xmodel's md5sum is 435e2bfe6051634112f5d90024409d72, and has been saved to "/workspace/project/bia_zcu104_yolov11/compiled_zcu104_nosplit/md5sum.txt"
+**************************************************
+* VITIS_AI Compilation - Xilinx Inc.
+**************************************************

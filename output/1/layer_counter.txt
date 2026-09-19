@@ -1,0 +1,3 @@
+usage: check_yolo11_zcu104.py [-h] --model MODEL --image IMAGE
+                              [--output-dir OUTPUT_DIR] [--repeat REPEAT]
+check_yolo11_zcu104.py: error: the following arguments are required: --model, --image

@@ -1,0 +1,14 @@
+Profile Summary
+Generated on: 2021-11-19 17:25:38
+XRT build version: 0.0.0
+Build version branch: N/A
+Build version hash: N/A
+Build version date: N/A
+Target devices: N/A
+
+DPU Summary
+Kernel Name,Number Of Runs,CU Full Name,Minimum Time (ms),Average Time (ms),Maximum Time (ms),Workload(GOP),DPU Performance(GOP/s),Mem IO(MB),Mem Bandwidth(MB/s),
+subgraph_YOLO11nZCU104__YOLO11nZCU104_C3k2_model__ModuleList_10__C3k_m__ModuleList_0__Conv_cv1__Conv2d_conv__input_221,1,DPUCZDX8G_1:batch-1,12.471,12.471,12.471,6.411,42.385,41.272,3352.911,
+vart::TensorBuffer::copy_tensor_buffer,7,CPU,0.021,0.036,0.763,
+xir::XrtCu::run,1,CPU,12.449,12.449,12.449,
+

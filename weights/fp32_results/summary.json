@@ -1,0 +1,21 @@
+{
+  "weights": "/home/vu/Vitis-AI/project/bia_zcu104_yolov11/weights/best.pt",
+  "images_folder": "/home/vu/Vitis-AI/project/bia_zcu104_yolov11/weights/images",
+  "number_of_images": 22,
+  "number_of_detections": 134,
+  "class_totals": {
+    "target": 17,
+    "bullet": 117
+  },
+  "imgsz": 640,
+  "conf": 0.4,
+  "iou": 0.35,
+  "device": "cpu",
+  "mean_inference_ms": 99.41655440913813,
+  "median_inference_ms": 99.41655440913813,
+  "min_inference_ms": 99.41655440913813,
+  "max_inference_ms": 99.41655440913813,
+  "mean_pipeline_ms": 102.63092918194161,
+  "approximate_inference_fps": 10.058686965599387,
+  "wall_time_seconds": 2.6135993039988534
+}

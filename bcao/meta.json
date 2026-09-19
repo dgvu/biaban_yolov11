@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "yolo11n_bullet_target.xmodel",
+    "kernel": [
+        "subgraph_YOLO11nZCU104__YOLO11nZCU104_C3k2_model__ModuleList_10__C3k_m__ModuleList_0__Conv_cv1__Conv2d_conv__input_221"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
